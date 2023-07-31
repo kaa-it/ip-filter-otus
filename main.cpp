@@ -2,7 +2,7 @@
 #include "utils.h"
 
 #include <iostream>
-#include <cassert>>
+#include <cassert>
 #include <string>
 #include <vector>
 #include <iterator>
